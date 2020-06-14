@@ -14,7 +14,7 @@ The function input() input has an optional parameter, which is the prompt string
 
 BASIC STATEMENTS used :--
 
-The if and else statement 
+The if and else statement :-
 The if and else evaluates test expression and will execute the body of if only when the test condition is True.
 
 elif Statement :-
