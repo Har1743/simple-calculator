@@ -1,4 +1,4 @@
-# simple-calculator
+# Simple-Calculator
 
 This calculator makes your calculation easy it can perform addition, subtraction, multiplication, division.
 
